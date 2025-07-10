@@ -1,6 +1,6 @@
 # 🎙️ Voice2Code – Speak. Generate. Code.
 
-**Voice2Code** is an AI-powered web app that lets you convert voice commands into fully functional HTML, CSS, and JavaScript code in real time — no typing, no delay, just speak and build.
+**Voice2Code** is an AI-powered web app that lets you convert voice commands into fully functional HTML, CSS, and JavaScript code in real time no typing, no delay, just speak and build.
 
 ---
 
@@ -9,7 +9,7 @@
 Imagine coding without touching the keyboard. Just say:
 
 🗣️ *“Create a centered login form with two input fields and a submit button”*  
-And boom 💥 — the code appears instantly.
+And boom 💥 the code appears instantly.
 
 **Voice2Code** uses:
 - Real-time speech recognition  
@@ -138,7 +138,7 @@ You can:
 ## ⭐ Like It? Star It!
 
 If you love the idea of coding with your voice, don’t forget to ⭐ this repository.  
-Let’s build the future of voice-driven coding — together!
+Let’s build the future of voice-driven coding together!
 
 ---
 
