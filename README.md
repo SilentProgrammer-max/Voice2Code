@@ -139,7 +139,6 @@ You can:
 
 If you love the idea of coding with your voice, don’t forget to ⭐ this repository.  
 Let’s build the future of voice-driven coding together!
-
 ---
 
 Made with 💻 + 🧠 + 🎙️  
