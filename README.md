@@ -94,6 +94,13 @@ Say something like “Create a red button that says Subscribe” → your code w
 
 ---
 
+<h2 align="center">🎥 Preview the Magic</h2>
+
+<p align="center">
+  <img src="public/assets/img3.PNG" width="45%" alt="Desktop View" />
+  <img src="public/assets/img5.PNG" width="45%" alt="Mobile View" />
+</p>
+
 ## 💡 Example Voice Commands
 
 Try saying:
