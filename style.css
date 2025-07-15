@@ -1976,3 +1976,47 @@ footer strong a {
         font-size: 0.7rem;
     }
 }
+
+@media (max-width: 1440px) {
+    select {
+        text-align: center;
+        height: 3vh;
+        width: 8vw;
+    }
+
+    .but {
+        width: 4vw;
+        height: 7vh;
+    }
+
+    .howto {
+        padding: 1rem 8rem;
+    }
+
+    .about {
+        display: flex;
+        align-items: center;
+        padding: 10% 8% 15% 7%;
+        gap: 4rem;
+
+    }
+
+    .cards {
+        gap: 2%;
+    }
+
+    .card {
+        width: 18%;
+    }
+
+    .cont {
+        margin: 15% 5% 0% 6%;
+        padding: 0% 3% 10% 0%;
+        gap: 4%;
+    }
+
+    .container {
+        height: 76vh;
+        width: 74vw;
+    }
+}
